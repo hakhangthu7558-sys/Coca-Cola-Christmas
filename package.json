@@ -1,0 +1,53 @@
+{
+    "name": "theme-coca-cola-christmas",
+    "version": "1.0.0",
+    "displayName": "Coca-Cola Christmas",
+    "description": "A festive VS Code theme inspired by classic Coca-Cola Christmas aesthetics - deep winter nights, snow-white text, and warm holiday red accents",
+    "publisher": "holiday-themes",
+    "license": "MIT",
+    "main": "app.js",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": ["Themes"],
+    "keywords": [
+        "coca-cola",
+        "christmas",
+        "holiday",
+        "festive",
+        "dark",
+        "theme",
+        "color-theme",
+        "winter",
+        "red",
+        "snow"
+    ],
+    "galleryBanner": {
+        "color": "#0d0d0d",
+        "theme": "dark"
+    },
+    "icons": "img-pic/icon128.png",
+    "activationEvents": ["*"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coca-Cola Christmas",
+                "uiTheme": "vs-dark",
+                "path": "./theme/coca-cola-christmas.json"
+            },
+            {
+                "label": "Coca-Cola Christmas Soft",
+                "uiTheme": "vs-dark",
+                "path": "./theme/coca-cola-christmas-soft.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hakhangthu7558-sys/Coca-Cola-Christmas"
+    },
+    "bugs": {
+        "url": "https://github.com/hakhangthu7558-sys/Coca-Cola-Christmas/issues"
+    },
+    "homepage": "https://github.com/hakhangthu7558-sys/Coca-Cola-Christmas#readme"
+}

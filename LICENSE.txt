@@ -1,0 +1,52 @@
+MIT License
+
+Copyright (c) 2024 Holiday Themes
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL TERMS AND CONDITIONS:
+
+1. TRADEMARK NOTICE:
+   This theme is inspired by the classic Coca-Cola Christmas aesthetic but is
+   not affiliated with, endorsed by, or sponsored by The Coca-Cola Company.
+   "Coca-Cola" is a registered trademark of The Coca-Cola Company.
+
+2. DESIGN INSPIRATION:
+   The color scheme and design elements are inspired by traditional Christmas
+   and holiday imagery, including the classic red and white color combination
+   commonly associated with winter holidays and festive celebrations.
+
+3. ATTRIBUTION:
+   While not required, attribution to the Holiday Themes team is appreciated
+   when redistributing or modifying this theme.
+
+4. COMMUNITY GUIDELINES:
+   This theme is created in the spirit of holiday joy and community sharing.
+   We encourage users to spread festive cheer while respecting intellectual
+   property rights and maintaining the positive, inclusive nature of the
+   holiday season.
+
+5. DISCLAIMER:
+   This theme is provided for educational and entertainment purposes. The
+   creators make no claims regarding the accuracy of color reproduction
+   across different displays or the suitability for any specific use case.
+
+Happy Holiday Coding! 🎄✨
